@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fake-useragent": "^1.0.1",
+    "header-generator": "^2.1.38",
+    "user-agents": "^1.0.1444"
+  }
+}

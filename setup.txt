@@ -1,0 +1,30 @@
+Ð?i v?i window
+
+pip install pyTelegramBotAPI
+pip install DateTime
+pip install psutil
+pip install sqlite3
+pip install requests
+pip install hashlib
+pip install socket
+pip install threading
+
+npm install user-agents
+npm install header-generator
+
+Ð?i v?i MacOS
+
+pip install pyTelegramBotAPI DateTime psutil sqlite3 requests hashlib
+npm install user-agents
+npm install header-generator
+
+Ð?i v?i di?n tho?i ( Termux )
+
+pip install pyTelegramBotAPI DateTime psutil sqlite3 requests hashlib
+npm install user-agents
+npm install header-generator
+
+Ch?y file get.py d? auto scan proxy 
+proxy scan lien tuc sau 10p
+
+C?n h? tr? inbox telegram: @viduchung
